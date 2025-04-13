@@ -1,4 +1,4 @@
-Yes, the script I provided aligns well with your GitHub README description for Moonlight. Here's how the code corresponds to the details outlined in your README:
+
 
 ### Features Implemented in the Script:
 1. **Display Metadata (ExifTool):**
