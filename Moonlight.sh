@@ -9,7 +9,7 @@ cat << "EOF"
 **************************
 EOF
 
-# Afficher le menu une seule fois
+
 echo "Welcome to Moonlight - Steganography Tool 🌙"
 echo "1. Display metadata (ExifTool)"
 echo "2. Embed hidden data (Steghide)"
@@ -19,9 +19,9 @@ echo "5. Encrypt a file (OpenSSL)"
 echo "6. Decrypt a file (OpenSSL)"
 echo "7. Exit"
 
-# Boucle principale pour les interactions
+
 while true; do
-    # Demander une option sans réafficher le menu
+    
     read -p "Choose an option (1-7): " option
 
     case $option in
